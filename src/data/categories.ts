@@ -1,6 +1,6 @@
 import { Category } from '../types/Category';
 
 export const categories: Category = {
-    Despesa: { title: 'Despesa', color: 'red', expense: true },
-    Lucro: { title: 'Lucro', color: 'green', expense: false }
+    Despesa: { title: 'Saida', color: 'red', expense: true },
+    Lucro: { title: 'Entrada', color: 'green', expense: false }
 }
