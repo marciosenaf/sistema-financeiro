@@ -11,13 +11,16 @@ Este Projeto e uma aplicacao voltada mais para o front-end q tem como objetivo s
 
 # Tecnologias utilizadas
 
-- linguagem de programacao JavaScript
+- linguagem de programacao TypeScript
 - feito na biblioteca React js
 
 ## Dependencias Instaladas
 
+- #### typescript:
+TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.
 
-
+- #### styled-components
+Basicamente, styled components é uma biblioteca que possibilita escrever códigos CSS dentro do JavaScript. Com ele, você pode criar websites bonitos e funcionais. Além disso, ganhar mais agilidade e precisão no desenvolvimento web.
 
 ## Implantação em produção
 - CloudFlare
