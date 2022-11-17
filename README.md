@@ -6,7 +6,7 @@ Link do Projeto: https://sistema-financeiro.pages.dev/
 
 Este Projeto e uma aplicacao voltada mais para o front-end q tem como objetivo ser uma ferramenta que caucula entradas e saidas fi, possuindo versatilidade e facil uso
 
-## Layout no computador
+## Layout no Computador
 ![Web](https://github.com/marciosenaf/sistema-financeiro/blob/main/public/computer.readme.png)
 
 # Tecnologias utilizadas
